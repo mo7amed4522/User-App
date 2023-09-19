@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467117159460-2398srpr0tflpgresjmvo19ulrv5vn4i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467117159460-2398srpr0tflpgresjmvo19ulrv5vn4i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>467117159460-9o45r7pa64oft4ggclqk4cr0kcrkibvh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCLNB12zjdMF8T1E55ikG2S-hrj2Cke2HU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467117159460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cyanofoodzo.user</string>
+	<key>PROJECT_ID</key>
+	<string>foodzo-6ba58</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodzo-6ba58.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467117159460:ios:cfdfc4a4f0c92e661a54b1</string>
+</dict>
+</plist>
