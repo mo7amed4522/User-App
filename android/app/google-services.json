@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "467117159460",
+    "project_id": "foodzo-6ba58",
+    "storage_bucket": "foodzo-6ba58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467117159460:android:d12c27b6d5db85ed1a54b1",
+        "android_client_info": {
+          "package_name": "com.cyanofoodzo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467117159460-5daklt6nejjjhcoqeiq58sppdk7cmmkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQBg-r7TU8JGTqNk1PuCNetExM3qR3xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467117159460-5daklt6nejjjhcoqeiq58sppdk7cmmkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467117159460:android:4211ff2d88d10e2d1a54b1",
+        "android_client_info": {
+          "package_name": "com.cyanofoodzo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467117159460-5daklt6nejjjhcoqeiq58sppdk7cmmkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQBg-r7TU8JGTqNk1PuCNetExM3qR3xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467117159460-5daklt6nejjjhcoqeiq58sppdk7cmmkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
