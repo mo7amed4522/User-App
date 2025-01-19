@@ -1,6 +1,6 @@
-# foodzo
+# Food
 
-Foodzo user app
+Food user app
 
 ## Getting Started
 
